@@ -1,10 +1,11 @@
 {
-  "latestVersion": "1.2",
-  "latestVersionCode": "3",
-  "url": "https://github.com/thatapps/YSaveM2021/releases/download/ysavem1.2/videodownloadm.apk",
+  "latestVersion": "1.3",
+  "latestVersionCode": "4",
+  "url": "https://github.com/thatapps/YSaveM2021/releases/download/ysavem1.3/videodownloadm.apk",
   "releaseNotes": [
-    "- Version 1.2 Important Update",
+    "- Version 1.3 Important Update",
     "- Video Loading Bug Fixed",
+    "- Comment Issue Fixed",
     "- Major Issues Fixed",
     "- Share This App And Support Us",
     "- Thanks"
